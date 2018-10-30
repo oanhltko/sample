@@ -4,7 +4,7 @@
 
     <groupId>com.github.oanhltko</groupId>
     <artifactId>sample</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>Sample Java Client</name>
     <url>https://github.com/oanhltko/sample</url>
     <packaging>jar</packaging>
@@ -13,7 +13,7 @@
     <scm>
         <connection>scm:git:https://oanhltko:Kimoanh1402@github.com/oanhltko/sample.git</connection>
         <developerConnection>scm:git:https://oanhltko:Kimoanh1402@github.com/oanhltko/sample.git</developerConnection>
-        <tag>sample-1.0.0</tag>
+        <tag>HEAD</tag>
         <url>https://github.com/oanhltko/sample</url>
     </scm>
     
