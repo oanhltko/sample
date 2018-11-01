@@ -9,10 +9,14 @@
     <url>https://github.com/oanhltko/sample</url>
     <packaging>jar</packaging>
     <description>Sample Java Client</description>
-    
+
+    <properties>
+        <project.scm.id>git</project.scm.id>
+    </properties>   
+ 
     <scm>
-        <connection>scm:git:https://oanhltko:Kimoanh1402@github.com/oanhltko/sample.git</connection>
-        <developerConnection>scm:git:https://oanhltko:Kimoanh1402@github.com/oanhltko/sample.git</developerConnection>
+        <connection>scm:git:https://github.com/oanhltko/sample.git</connection>
+        <developerConnection>scm:git:https://github.com/oanhltko/sample.git</developerConnection>
         <tag>HEAD</tag>
         <url>https://github.com/oanhltko/sample</url>
     </scm>
