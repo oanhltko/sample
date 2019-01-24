@@ -34,14 +34,12 @@
         <developer>
             <id>oanhltk</id>
             <name>Lai Thi Kim Oanh</name>
-            <email>oanh.laithikim@toshiba-tsdv.com</email>
             <url />
-            <organization>Toshiba</organization>
+            <organization>SampleProject</organization>
             <organizationUrl />
             <roles>
                 <role>developer</role>
             </roles>
-            <timezone>Japan/Tokyo</timezone>
         </developer>
     </developers>
 
