@@ -4,7 +4,7 @@
 
     <groupId>com.github.oanhltko</groupId>
     <artifactId>sample</artifactId>
-    <version>1.0.4-SNAPSHOT</version>
+    <version>1.0.5</version>
     <name>Sample Java Client</name>
     <url>https://github.com/oanhltko/sample</url>
     <packaging>jar</packaging>
